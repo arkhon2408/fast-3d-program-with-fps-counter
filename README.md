@@ -2,4 +2,5 @@
 
 
 HOW TO USE THIS
+* unpack (needs shader files next to exe)
 * run cube.exe (compiled C code)
